@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/Car.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/Insurance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/OptionalInAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/common" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/construction" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/helloworld" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/local" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/matcher" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/mockfinal" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/mockstatic" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/simple" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/spy" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/xiao/powermock/verify" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/answer/UserServiceTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/construction" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/helloworld" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/local" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/matcher" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/mockfinal" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/mockstatic" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/simple" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/spy" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/xiao/powermock/verify" charset="GBK" />
+  </component>
+</project>

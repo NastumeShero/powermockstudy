@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.xiao.powermock.spy.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.224 s <<< FAILURE! - in com.xiao.powermock.spy.UserServiceTest
+testCheck(com.xiao.powermock.spy.UserServiceTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.UnsupportedOperationException
+	at com.xiao.powermock.spy.UserServiceTest.testCheck(UserServiceTest.java:46)
+

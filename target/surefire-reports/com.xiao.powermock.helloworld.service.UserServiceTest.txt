@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xiao.powermock.helloworld.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.043 s - in com.xiao.powermock.helloworld.service.UserServiceTest
